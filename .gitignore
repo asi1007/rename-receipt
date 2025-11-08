@@ -1,0 +1,10 @@
+# 環境変数ファイル（機密情報を含む）
+.env
+
+# Google Apps Script関連
+.clasp.json
+
+# その他
+.DS_Store
+*.log
+
